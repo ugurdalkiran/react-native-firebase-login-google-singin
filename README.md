@@ -12,7 +12,7 @@ Profil fotoğrafı güncelleme işlemi için kameradan veya galeriden seçilen f
 
 Uygulamanın son halini **APK** olarak [buradan](https://github.com/ugurdalkiran/react-native-firebase-login-google-singin/blob/master/fir2.apk?raw=true) indirebilirsiniz.
 
-Uygulamanın tüm kaynak kodlarını ise **FTP** üzerinden [buraya](https://www.ugurdalkiran.com/firebaseApp.rar/) tıklayarak indirebilirsiniz.
+Uygulamanın tüm kaynak kodlarını ise **FTP** üzerinden [buraya](https://we.tl/t-adzAe8iSrc) tıklayarak indirebilirsiniz.
 
 ## Kullanılan Paketler
 
