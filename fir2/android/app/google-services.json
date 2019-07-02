@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "838845541897",
+    "firebase_url": "https://cekinoauth.firebaseio.com",
+    "project_id": "cekinoauth",
+    "storage_bucket": "cekinoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838845541897:android:3d61c38169266173",
+        "android_client_info": {
+          "package_name": "com.fir2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838845541897-vn8vv4tk9p7hbvf2rcpu56d2vgjse79i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fir2",
+            "certificate_hash": "3c92b077a8ec686ddb1468f00785fc6d7f90b113"
+          }
+        },
+        {
+          "client_id": "838845541897-colr7uld2ahgqieaplurfks3iq6gk5od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fir2",
+            "certificate_hash": "1283ac9cf8eb3c9c726aa041ea66688d4e2e6209"
+          }
+        },
+        {
+          "client_id": "838845541897-0o3kjsibhngmsknm49d2mnskbtf0r7ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHDA3pf3ysmREUH9fXedisRcPiGRX9tGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838845541897-0o3kjsibhngmsknm49d2mnskbtf0r7ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
